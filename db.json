@@ -1,0 +1,93 @@
+{
+    "clientes":[
+        {
+            "nome":"Yasmim Alves",
+            "telefone":"2198888-8888",
+            "email":"yasmin@alves.com",
+            "cpf":"123.456.789-0",
+            "id":1
+        },
+        {
+            "nome":"Thiago de Oliveira",
+            "telefone":"2197777-7777",
+            "email":"thiago@oliveira.com",
+            "cpf":"789.456.123-0",
+            "id":2
+        },
+        {
+            "nome":"Priscila Martins",
+            "telefone":"2196666-6666",
+            "email":"priscila@martins.com",
+            "cpf":"456.123.789-0",
+            "id":3
+        },
+        {
+            "nome":"Deise Lima",
+            "telefone":"2194444-4444",
+            "email":"deise@lima.com",
+            "cpf":"789.476.123-0",
+            "id":4
+        },
+        {
+            "nome":"Orlando Santana",
+            "telefone":"2195555-5555",
+            "email":"orlando@santana.com",
+            "cpf":"857.237.812-0",
+            "id":5
+        }
+    ],
+    "autores":[
+        {
+            "nome":"J.K. Rowling",
+            "nacionalidade":"britânica",
+            "biografia":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ornare erat. Cras ornare ligula sit amet tortor faucibus, in egestas metus finibus. Sed lacinia tellus lectus. Cras rutrum magna quis nisl dapibus placerat.",
+            "id":1
+        },
+        {
+            "nome":"Stephen King",
+            "nacionalidade":"americano",
+            "biografia":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ornare erat. Cras ornare ligula sit amet tortor faucibus, in egestas metus finibus. Sed lacinia tellus lectus. Cras rutrum magna quis nisl dapibus placerat.",
+            "id":2
+        },
+        {
+            "nome":"Philip K. Dick",
+            "nacionalidade":"americano",
+            "biografia":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ornare erat. Cras ornare ligula sit amet tortor faucibus, in egestas metus finibus. Sed lacinia tellus lectus. Cras rutrum magna quis nisl dapibus placerat.",
+            "id":3
+        }
+    ],
+    "obras":[
+        {
+            "titulo":"Harry Potter e a Pedra Filosofal",
+            "autor-id":1,
+            "editora":"Editora Rocco",
+            "resumo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ornare erat. Cras ornare ligula sit amet tortor faucibus, in egestas metus finibus. Sed lacinia tellus lectus. Cras rutrum magna quis nisl dapibus placerat.",
+            "capa":"imagens/capa.jpg",
+            "id":1
+        },
+        {
+            "titulo":"Harry Potter e a Câmara Secreta",
+            "autor-id":1,
+            "editora":"Editora ",
+            "resumo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ornare erat. Cras ornare ligula sit amet tortor faucibus, in egestas metus finibus. Sed lacinia tellus lectus. Cras rutrum magna quis nisl dapibus placerat.",
+            "capa":"imagens/capa.jpg",
+            "id":2
+        },
+        {
+            "titulo":"O iluminado",
+            "autor-id":2,
+            "editora":"Editora Suma",
+            "resumo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ornare erat. Cras ornare ligula sit amet tortor faucibus, in egestas metus finibus. Sed lacinia tellus lectus. Cras rutrum magna quis nisl dapibus placerat.",
+            "capa":"imagens/capa.jpg",
+            "id":3
+        },
+        {
+            "titulo":"O Homem do Castelo Alto",
+            "autor-id":3,
+            "editora":"Editora Aleph",
+            "resumo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ornare erat. Cras ornare ligula sit amet tortor faucibus, in egestas metus finibus. Sed lacinia tellus lectus. Cras rutrum magna quis nisl dapibus placerat.",
+            "capa":"imagens/capa.jpg",
+            "id":4
+        }
+    ]
+}
